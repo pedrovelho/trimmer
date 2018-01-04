@@ -1,0 +1,22 @@
+{
+  "name": "trimmer",
+  "version": "1.0.0",
+  "description": "trimmer is a Trello time tracker that keeps track of the time spent per card on each list (column). This is  useful to see your pipeline performance and improve your agile team.",
+  "main": "trimmer.js",
+  "dependencies": {
+    "get-json": "^1.0.0",
+    "node-getopt": "^0.2.3",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBA"
+  },
+  "keywords": ["Trello", "Timmer", "Agile", "performance"],
+  "author": "",
+  "license": "ISC"
+}
